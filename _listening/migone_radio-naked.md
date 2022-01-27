@@ -3,7 +3,7 @@ tags: radio-art event-score deprogramming
 title: 'Radio Naked'
 creator: 'Christof Migone'
 year: '1992'
-link: https://christofmigone.com/radionaked/
+link-url: https://christofmigone.com/radionaked/
 pin: 1
 ---
 

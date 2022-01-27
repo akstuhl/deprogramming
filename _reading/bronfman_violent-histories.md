@@ -1,6 +1,6 @@
 ---
 title: 'Violent Circuits, Contentious Voices: Caribbean Radio Histories'
-link: https://soundstudiesblog.com/2014/03/20/radio-de-accion-violent-circuits-contentious-voices-caribbean-radio-histories/
+link-url: https://soundstudiesblog.com/2014/03/20/radio-de-accion-violent-circuits-contentious-voices-caribbean-radio-histories/
 creator: 'Alejandra Bronfman'
 year: 2014
 ---

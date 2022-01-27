@@ -19,8 +19,8 @@ This stream, for now, features selections from the listening syllabus in random 
   <h3 id="{{ item.title | slugify }}">{{ item.title }}</h3>
   <span class="item-meta">
     {{ item.creator }}&nbsp;·&nbsp;{{ item.year }}
-    {% if item.link %}
-    <a href="{{ item.link }}" target="_blank" class="item-link">↗</a>
+    {% if item.link-url %}
+    <a href="{{ item.link-url }}" target="_blank" class="item-link">↗</a>
     {% endif %}
   </span>
 
