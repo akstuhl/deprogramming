@@ -1,10 +1,10 @@
 - name: Meeting
-  file: meeting.md
+  url: meeting.html
 - name: Listening
-  file: listening.md
+  url: listening.html
 - name: Reading
-  file: reading.md
+  url: reading.html
 - name: Contributing
-  file: contributing.md
+  url: contributing.html
 - name: Deprogramming
-  file: deprogramming.md
+  url: deprogramming.html
