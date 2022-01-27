@@ -1,6 +1,6 @@
 <nav>
   {% for item in site.data.navigation %}
-    <a href="{{ item.url }}">{{ item.name }}</a>
+    <a href="{{site.baseurl}}/{{ item.url }}">{{ item.name }}</a>
     {% if forloop.last == false %}
      ·
     {% endif %}
