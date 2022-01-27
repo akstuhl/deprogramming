@@ -1,0 +1,35 @@
+@font-face { font-family: 'Recursive'; src: url("../font/Recursive_VF_1.078--subset-GF_latin_basic.woff2"); }
+
+body { background: #ffffff; color: #000000; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; padding: 1em 2em; }
+
+h1, h2, h3, h4, nav, .index, .item-heading, .stream-footer { font-family: "Recursive", monospace; font-variation-settings: "CASL" 0.5; }
+
+nav { font-size: 18px; }
+
+.stream-emoji { font-size: 30px; vertical-align: super; letter-spacing: 0.1em; }
+
+.stream-footer .ext-arrow { font-size: 24px; }
+
+.index h1 { font-size: 60px; font-variation-settings: "wght" 815, "CASL" 0.3, "MONO" 1; margin-bottom: 0; }
+
+.index ul { background: #DFDFDF; margin: 1.4em 0; padding: 1em 1.4em 1em 0.8em; max-width: fit-content; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; list-style: none; line-height: 1.8em; font-size: 18px; font-variation-settings: "MONO" 0.75, "CASL" 0; }
+
+.index ul em, .index ul strong { font-variation-settings: "CASL" 1; }
+
+.index ul li::before { color: #ffffff; content: "# "; }
+
+.item-heading h3 { display: inline; margin-right: 1em; }
+
+.item-anchor a { font-variation-settings: "CASL" 0; }
+
+.item-link { font-size: 1.6em; vertical-align: super; }
+
+code { font-family: "Recursive", monospace; font-variation-settings: "CASL" 0, "MONO" 1; font-size: 14px; }
+
+pre { white-space: pre-wrap; }
+
+.filename { margin-bottom: 0; }
+
+pre, .bulletin { background: #DFDFDF; -moz-border-radius: 10px; -webkit-border-radius: 10px; border-radius: 10px; padding: 1em; max-width: fit-content; }
+
+/*# sourceMappingURL=main.css.map */

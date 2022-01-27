@@ -1,0 +1,10 @@
+- name: Meeting
+  file: meeting.md
+- name: Listening
+  file: listening.md
+- name: Reading
+  file: reading.md
+- name: Contributing
+  file: contributing.md
+- name: Deprogramming
+  file: deprogramming.md

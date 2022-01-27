@@ -1,0 +1,8 @@
+<nav>
+  {% for item in site.data.navigation %}
+    <a href="{% link {{ item.file }} %}">{{ item.name }}</a>
+    {% if forloop.last == false %}
+     ·
+    {% endif %}
+  {% endfor %}
+</nav>
