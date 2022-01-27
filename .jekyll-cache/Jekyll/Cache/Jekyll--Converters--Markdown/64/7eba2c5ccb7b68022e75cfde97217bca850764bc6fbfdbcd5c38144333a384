@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Reading list - Radio Deprogramming</title>
-    <link rel="stylesheet" href="/deprogramming/assets/css/main.css">
-  </head>
-  <body>
-    <h3><a href="/deprogramming">Radio Deprogramming</a></h3>
-    <nav>
-  
-    <a href="/deprogramming/meeting.html">Meeting</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/listening.html">Listening</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/reading.html">Reading</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/contributing.html">Contributing</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/deprogramming.html">Deprogramming</a>
-    
-  
-</nav>
-
-    <h1>Reading list</h1>
-    <p class="bulletin">📢&nbsp;&nbsp;Registered workshop participants: please refer to your email for readings that do not have open-access links here.</p>
+I""<p class="bulletin">📢&nbsp;&nbsp;Registered workshop participants: please refer to your email for readings that do not have open-access links here.</p>
 
 <div class="item-heading">
 
@@ -102,6 +64,4 @@
 
 <p>Description to come</p>
 
-
-  </body>
-</html>
+:ET

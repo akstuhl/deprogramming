@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Reading list - Radio Deprogramming</title>
-    <link rel="stylesheet" href="/deprogramming/assets/css/main.css">
-  </head>
-  <body>
-    <h3><a href="/deprogramming">Radio Deprogramming</a></h3>
-    <nav>
-  
-    <a href="/deprogramming/meeting.html">Meeting</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/listening.html">Listening</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/reading.html">Reading</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/contributing.html">Contributing</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/deprogramming.html">Deprogramming</a>
-    
-  
-</nav>
-
-    <h1>Reading list</h1>
-    <p class="bulletin">📢&nbsp;&nbsp;Registered workshop participants: please refer to your email for readings that do not have open-access links here.</p>
+I"6<p class="bulletin">📢&nbsp;&nbsp;Registered workshop participants: please refer to your email for readings that do not have open-access links here.</p>
 
 <div class="item-heading">
 
@@ -45,7 +7,7 @@
   </span>
   <h3 id="radio-space-and-industrial-time">Radio Space and Industrial Time</h3>
   <span class="item-meta">
-    Jody Berland · 1990
+    Jody Berland&amp; · 1990
     
   </span>
 
@@ -60,7 +22,7 @@
   </span>
   <h3 id="violent-circuits-contentious-voices-caribbean-radio-histories">Violent Circuits, Contentious Voices: Caribbean Radio Histories</h3>
   <span class="item-meta">
-    Alejandra Bronfman · 2014
+    Alejandra Bronfman&amp; · 2014
     
     <a href="https://soundstudiesblog.com/2014/03/20/radio-de-accion-violent-circuits-contentious-voices-caribbean-radio-histories/" target="_blank" class="item-link">↗</a>
     
@@ -77,7 +39,7 @@
   </span>
   <h3 id="programmability">Programmability</h3>
   <span class="item-meta">
-    Wendy Hui Kyong Chun · 2008
+    Wendy Hui Kyong Chun&amp; · 2008
     
   </span>
 
@@ -92,7 +54,7 @@
   </span>
   <h3 id="description-for-simulcast-1-0-saskatoon">Description for Simulcast 1.0: Saskatoon</h3>
   <span class="item-meta">
-    Emmanuel Madan · 2008
+    Emmanuel Madan&amp; · 2008
     
     <a href="https://wavefarm.org/radio/swr/schedule/xgebf9" target="_blank" class="item-link">↗</a>
     
@@ -102,6 +64,4 @@
 
 <p>Description to come</p>
 
-
-  </body>
-</html>
+:ET

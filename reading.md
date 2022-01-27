@@ -13,7 +13,7 @@ title: Reading list
   </span>
   <h3 id="{{ item.title | slugify }}">{{ item.title }}</h3>
   <span class="item-meta">
-    {{ item.creator }}&nbsp;·&nbsp;{{ item.year }}
+    {{ item.creator }} · {{ item.year }}
     {% if item.link-url %}
     <a href="{{ item.link-url }}" target="_blank" class="item-link">↗</a>
     {% endif %}

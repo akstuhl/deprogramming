@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Contributing to this site - Radio Deprogramming</title>
-    <link rel="stylesheet" href="/deprogramming/assets/css/main.css">
-  </head>
-  <body>
-    <h3><a href="/deprogramming">Radio Deprogramming</a></h3>
-    <nav>
-  
-    <a href="/deprogramming/meeting.html">Meeting</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/listening.html">Listening</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/reading.html">Reading</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/contributing.html">Contributing</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/deprogramming.html">Deprogramming</a>
-    
-  
-</nav>
-
-    <h1>Contributing to this site</h1>
-    <p>This website is a collaborative resource and documentation effort for Wave Farm’s Radio Deprogramming workshop. Participants are encouraged to help build it by adding works to the listening and reading lists. We will also publish our deprogramming prompts here. Generally speaking, there are two ways to contribute these items: a simple way, and a more hands-on way intended for participants who want to (gently) stretch their web development muscles.</p>
+I"�<p>This website is a collaborative resource and documentation effort for Wave Farm’s Radio Deprogramming workshop. Participants are encouraged to help build it by adding works to the listening and reading lists. We will also publish our deprogramming prompts here. Generally speaking, there are two ways to contribute these items: a simple way, and a more hands-on way intended for participants who want to (gently) stretch their web development muscles.</p>
 
 <h2 id="the-simple-way">The simple way</h2>
 
@@ -68,6 +30,4 @@
 
 <span class="p">[</span><span class="nv">Radio Naked</span><span class="p">](</span><span class="sx">https://christofmigone.com/radionaked/</span><span class="p">)</span> is a "manifesto that naively impels the radio programmer to dispense (or at least question) all of the conventions and expectations of what radio should sound like." Radio artist Christof Migone composed the twenty-two prompts that make up the work in the early 1990s, and audio versions were later produced for each prompt. Radio Naked lends a key precedent to this workshop, providing form and inspiration for the deprogramming prompts we will develop together.
 </code></pre></div></div>
-
-  </body>
-</html>
+:ET

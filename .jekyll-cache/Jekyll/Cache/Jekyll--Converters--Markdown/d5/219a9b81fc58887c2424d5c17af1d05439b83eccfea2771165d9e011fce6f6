@@ -1,42 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>Listening syllabus - Radio Deprogramming</title>
-    <link rel="stylesheet" href="/deprogramming/assets/css/main.css">
-  </head>
-  <body>
-    <h3><a href="/deprogramming">Radio Deprogramming</a></h3>
-    <nav>
-  
-    <a href="/deprogramming/meeting.html">Meeting</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/listening.html">Listening</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/reading.html">Reading</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/contributing.html">Contributing</a>
-    
-     ·
-    
-  
-    <a href="/deprogramming/deprogramming.html">Deprogramming</a>
-    
-  
-</nav>
-
-    <h1>Listening syllabus</h1>
-    <div class="stream-embed">
+I"�<div class="stream-embed">
   <span class="stream-emoji">📻 🤖 </span>
   <audio controls="controls" preload="none">
     <source src="https://partneraudio.wavefarm.org/astuhl.mp3" type="audio/mpeg" />&lt;/source&gt;
@@ -165,6 +127,4 @@
 
 <p>In a short work for his audio zine <a href="https://www.jamestgreen.com/u1f60c/hold">U+1F60C</a>, James T. Green performs what we might call a deprogramming of a very specific, non-radio audio medium: the Nordstrom department store phone menu. Lighthearted and direct, “Please Hold” lets us hear Green as he encounters the people in the interior of this medium – call center operators and sales clerks – and asks them to invert an aspect of its usual functioning.</p>
 
-
-  </body>
-</html>
+:ET
