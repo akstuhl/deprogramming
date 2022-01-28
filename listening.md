@@ -8,7 +8,7 @@ title: Listening syllabus
 This stream, for now, features selections from the listening syllabus in random order. It plays on a [π-box](https://p-node.org/documentation/pibox/what-is-a-pibox).
 {: .stream-footer }
 
-{% assign reversed = site.listening | reverse %}
+{% assign reversed = site.listening | sort: "year" | reverse %}
 {% assign sorted = reversed | sort: "pin" | reverse %}
 {% for item in sorted %}
 <div class="item-heading">
