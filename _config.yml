@@ -7,10 +7,10 @@ collections:
     output: true
   meeting:
     output: true
-    sort_by: pin
+    sort_by: "pin"
   listening:
     output: false
-    sort_by: year
+    sort_by: "year"
   reading:
     output: false
   quotes:
