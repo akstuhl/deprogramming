@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Reading list
+title: Recommended readings
 ---
 
 <p class='bulletin'>📢&nbsp;&nbsp;Registered workshop participants: please refer to your email for readings that do not have open-access links here.</p>
