@@ -7,7 +7,7 @@ This website is a collaborative resource and documentation effort for Wave Farm'
 
 ## The simple way
 
-Email me, Andy, at [andykstuhl@gmail.com](mailto:andykstuhl@gmail.com). If you want to add a work to the listening or reading list, please note the creator's name, the year it was published, and a URL and/or attachment containing the work. If you are adding a deprogramming prompt, please indicate how you would like your name to appear (or if you would like it to be anonymous).
+Email me (Andy) at [andykstuhl@gmail.com](mailto:andykstuhl@gmail.com). If you want to add a work to the listening or reading list, please note the creator's name, the year it was published, and a URL and/or attachment containing the work. If you are adding a deprogramming prompt, please indicate how you would like your name to appear (or if you would like it to be anonymous).
 
 ## The hands-on way
 
