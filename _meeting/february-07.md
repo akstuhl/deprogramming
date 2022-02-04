@@ -18,5 +18,5 @@ Zoom link in email to registered participants.
   - The programmer as convener in Indigenous and other community radio traditions
   - Music radio formats, automation, and the roots of algorithmic media ills
   - Programmability: computational culture and Cold War anxieties
-  - "Software for People" and the sonic event score as program
+  - "Software for People," the sonic event score, and bases for deprogramming
 - Introducing listening syllabus
