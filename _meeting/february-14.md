@@ -19,8 +19,8 @@ If you missed the first session or would like a refresher, also please take a lo
   - What connections do we see/hear to other works?
   - What questions do we have for Christof Migone?
 - Exploring the event score form
-  - Sonic meditation 1 (programming): "Listening Across Distance"
-  - Sonic meditation 2 (deprogramming): "Inactive Speaker"
+  - Sonic meditation 1 (programming): "[Listening Across Distance]({{ site.baseurl }}/materials/listening-across-distance.html)"
+  - Sonic meditation 2 (deprogramming): "[Inactive Speaker]({{ site.baseurl }}/materials/inactive-speaker.html)"
 - In breakout groups, drafting deprogramming prompts for non-radio media
 - Reconvening to share prompts and build a definition for deprogramming
 - Planning small group meetings in advance of next session
