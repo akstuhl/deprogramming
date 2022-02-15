@@ -1,8 +1,8 @@
 ---
 tags: deprogramming
-title: ‘St.GIGA’
-creator: ‘WOWOW/Hiroshi Yokoi’
-year: ‘1990’
+title: 'St.GIGA'
+creator: 'WOWOW/Hiroshi Yokoi'
+year: '1990'
 link-url: https://archive.org/details/stgigaarchive
 ---
 
