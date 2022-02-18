@@ -5,7 +5,9 @@ title: 'Session 2: February 14, 5:00-6:30 p.m. EST'
 
 ## Recap
 
-We began session 2 by discussing Radio Naked, generating some great commentary on the work's individual prompts and on its larger aims and merits.
+We began session 2 by discussing [Radio Naked]({{ site.baseurl }}/listening.html#radio-naked), generating some great commentary on the work's individual prompts and on its larger aims and merits.
+
+Here is our annotation layer of sorts for <a href="https://christofmigone.com/radionaked/" target="_blank">Radio Naked</a> (direct link for easy reference):
 
 #### 1
 
@@ -82,7 +84,7 @@ We began session 2 by discussing Radio Naked, generating some great commentary o
 - Following from that question, can anyone say honestly they are broadcasting solely for themselves? Why the need for a platform/medium in that case?
   - The interpetive gap -- between wanting to communicate and knowing the ideal listener doesn't really exist -- as "a fruitful place to play and a substrate to create work in"
   - An artistic mantra: "the listener is always the composer" -- or are they a "co-composer"? And in a community radio context, the listener as "program-maker"
-- What were the stylistic decisions in the creation of the audio versions? For instance, why more synthetic sounds than indexical/acoustic sounds (e.g. bicycles in \#19)
+- What were the stylistic decisions in the creation of the audio versions? For instance, why more synthetic sounds than indexical/acoustic sounds (e.g. bicycles in \#19)? Why (in most cases) is the text of the prompt itself spoken, rather than actuated to produce other sounds?
 
 ---
 
@@ -108,7 +110,7 @@ If you missed the first session or would like a refresher, also please take a lo
 
 ## Deprogramming non-radio media exercise (breakout rooms)
 
-Your task with your group is to draft at least one "deprogramming prompt," in the style of Radio Naked, for the medium assigned to the breakout room you choose.
+Your task with your group is to draft at least one "deprogramming prompt," in the style of Radio Naked, for the medium assigned to the breakout room you choose. (Choices included cable TV, Facebook, YouTube or TikTok, email, and print journalism.)
 
 Here are some questions that may be useful to pose:
 
