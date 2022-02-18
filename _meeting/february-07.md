@@ -41,6 +41,8 @@ Our workshop got off to a great start thanks to 28 enthusiastic attendees. Much 
 
 In the latter part of the session, a mini-lecture walked through five senses of "programming" to do give a historical overview of how this notion has developed in and alongside American radio. The slides from this presentation are [here]({{ site.baseurl }}/assets/session-1-slides.pdf).
 
+---
+
 ## Agenda
 
 - Welcome from Wave Farm Executive Director Galen Joseph-Hunter
