@@ -3,7 +3,13 @@ layout: default
 title: 'Session 3: February 21, 5:00-6:30 p.m. EST'
 ---
 
-Zoom link in email to registered participants.
+## Recap
+
+Most of the session was spent working our way through a list of 46 deprogramming prompts that we had so far generated. We heard each participant read the prompts they had drafted, after which the group offered reactions and questions.
+
+With our remaining time, we discussed production tools and conceptual strategies as we prepared to create audio interpretations of each other's prompts.
+
+---
 
 ## Preparing
 
