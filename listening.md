@@ -3,11 +3,6 @@ layout: default
 title: Listening syllabus
 ---
 
-{% include stream.html %}
-
-This stream, for now, features selections from the listening syllabus in random order. It plays on a [π-box](https://p-node.org/documentation/pibox/what-is-a-pibox).
-{: .stream-footer }
-
 {% assign reversed = site.listening | sort: "year" | reverse %}
 {% assign sorted = reversed | sort: "pin" | reverse %}
 {% for item in sorted %}

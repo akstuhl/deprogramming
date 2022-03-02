@@ -34,4 +34,14 @@ pre, .bulletin { background: #DFDFDF; -moz-border-radius: 10px; -webkit-border-r
 
 p img { max-width: 600px; }
 
+.prompts { columns: 18em; }
+
+.prompts .prompt { break-inside: avoid-column; margin: 0; padding: 12px 6px; }
+
+.prompts .prompt .prompt-meta { font-family: "Recursive", monospace; font-size: 14px; background-color: white; -moz-border-radius: 4px; -webkit-border-radius: 4px; border-radius: 4px; padding: 4px; margin-right: 2px; }
+
+.prompts .prompt:nth-child(odd) { background-color: #FFFFE4; }
+
+.prompts .prompt:nth-child(even) { background-color: #CDF8FF; }
+
 /*# sourceMappingURL=main.css.map */

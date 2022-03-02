@@ -112,3 +112,30 @@ pre,.bulletin {
 p img {
   max-width: 600px;
 }
+
+.prompts {
+  columns: 18em;
+
+  .prompt {
+    break-inside: avoid-column;
+    margin: 0;
+    padding: 12px 6px;
+
+    .prompt-meta {
+      font-family: $titleFont;
+      font-size: 14px;
+      background-color: white;
+      -moz-border-radius: 4px;
+      -webkit-border-radius: 4px;
+      border-radius: 4px;
+      padding: 4px;
+      margin-right: 2px;
+    }
+  }
+  .prompt:nth-child(odd) {
+    background-color: #FFFFE4
+  }
+  .prompt:nth-child(even) {
+    background-color: #CDF8FF
+  }
+}
