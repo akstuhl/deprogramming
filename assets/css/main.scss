@@ -64,6 +64,11 @@ nav {
       content: "# "
     }
   }
+
+  p {
+    max-width: 45em;
+    line-height: 1.6em;
+  }
 }
 
 .item-heading {
@@ -113,12 +118,23 @@ p img {
   max-width: 600px;
 }
 
+.prompts-intro {
+  background: #DFDFDF;
+  margin: 1.4em 0;
+  padding: 2.5em;
+  max-width: fit-content;
+  -moz-border-radius: 10px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
+
 .prompts {
   columns: 18em;
 
   .prompt {
     break-inside: avoid-column;
     margin: 0;
+    margin-bottom: 14px;
     padding: 12px 6px;
 
     .prompt-meta {
