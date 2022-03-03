@@ -18,6 +18,32 @@ This stream features our workshop participants' interpretations of each other's 
       <span class='prompt-meta'>{{ prompt.Medium}}</span>
 
       <p>{{ prompt.Text }}</p>
+
+      {% if prompt.Audio2 == 'VIDEO' %}
+      <span class='prompt-meta'>Video: {{ prompt.Audio1 }}</span>
+      <video controls="controls">
+        <source src="{{ prompt.AudioLink1 }}" type="video/mp4"></source>
+      </video>
+      {% else %}
+
+        {% if prompt.AudioLink1 %}
+        <span class='prompt-meta'>Audio: {{ prompt.Audio1 }}</span>
+        <br />
+        <audio controls="controls" preload="none">
+          <source src="{{ prompt.AudioLink1 }}" type="audio/mpeg" ></source>
+        </audio>
+        <br />
+        {% endif %}
+
+        {% if prompt.AudioLink2 %}
+        <span class='prompt-meta'>Audio: {{ prompt.Audio2 }}</span>
+        <br />
+        <audio controls="controls" preload="none">
+          <source src="{{ prompt.AudioLink2 }}" type="audio/mpeg" ></source>
+        </audio>
+        <br />
+        {% endif %}
+      {% endif %}
     </div>
 
   {% endfor %}

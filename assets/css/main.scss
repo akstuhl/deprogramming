@@ -131,6 +131,11 @@ p img {
       padding: 4px;
       margin-right: 2px;
     }
+
+    audio, video {
+      margin: 5px 0;
+      width: 100%;
+    }
   }
   .prompt:nth-child(odd) {
     background-color: #FFFFE4
