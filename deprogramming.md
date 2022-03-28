@@ -3,11 +3,6 @@ layout: default
 title: "Deprogramming: micro-interventions for media-makers"
 ---
 
-{% include stream.html %}
-
-This stream features our workshop participants' interpretations of each other's prompts, along with the recordings from [Radio Naked](listening.html#radio-naked) in a randomized order. It plays on a [π-box](https://p-node.org/documentation/pibox/what-is-a-pibox).
-{: .stream-footer }
-
 These short text prompts, along with their audio and video interpretations, are the products of our collaborative imagining in the Radio Deprogramming workshop. Deprogramming, we decided, can mean many things: disrupting routines, inverting diagrams, restoring relations to space, rupturing the ordinary, transporting while disorienting, flipping what's public and what's private in listening, offering footholds in the unscalable walls of communication systems, or perhaps dismantling the very medium-ness of a medium. The prompts are event scores, creative strategies, poetic ruptures, productive ambiguities, speculative fictions, project plans, and counter-imaginaries.
 {: .prompts-intro }
 
